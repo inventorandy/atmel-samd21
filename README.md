@@ -32,9 +32,9 @@ This is an example of using the UART drivers to send and receive data via UART /
 
 ### 04 - SPI Communications with Serial Flash Memory
 
-https://youtu.be/RmThw2X5Ogc
-https://youtu.be/4HIMe9QOuHU
-https://youtu.be/m3ZHukeOAAE
+1. https://youtu.be/RmThw2X5Ogc
+2. https://youtu.be/4HIMe9QOuHU
+3. https://youtu.be/m3ZHukeOAAE
 
 This is an example of using SPI drivers to read and write data to the serial flash device on the Xplained Pro board.
 
@@ -61,3 +61,9 @@ This is an example of using the I2C drivers to read information from a TE Connec
 https://youtu.be/41CjTAzw-ag
 
 This is an example of displaying text and graphics using the OLED1 extension board for the Xplained Pro board.
+
+### 09 - ADC Battery Voltage Reader
+
+https://youtu.be/yMNAfbWML10
+
+This is an example of reading the voltage on a battery using the ADC on the Xplained Pro Board.
